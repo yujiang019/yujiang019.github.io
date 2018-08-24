@@ -1,2 +1,2 @@
 # Topics worth spreading.
-Welcome to my blog, and I will share interesting topics on machine learning and computer architecture here.
+Welcome to my **[blog](https://yujiang019.github.io/)**, and I will share interesting topics and ideas on machine learning and computer architecture here.
