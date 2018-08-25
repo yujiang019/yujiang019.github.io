@@ -1,0 +1,18 @@
+# Site settings
+title: Jiang Yu blog
+email: jiangyufd@gmail.com
+description: To wear crowns shall bear the heavy.
+baseurl: ""
+url: "https://yujiang019.github.io/"
+github_username: yujiang019
+twitter_username: jiangyufd
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+highlighter: rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
